@@ -1,1 +1,4 @@
-# streamlitbot
+## Groupe:
+    * Martin Morin
+    * Paul Giraud
+    
