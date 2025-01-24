@@ -15,10 +15,10 @@ git clone https://github.com/MartinMrnn/streamlitbot.git
 
     python3 -m venv stenv
 
-    pip3 install -r requirements.txt
-
     source stenv/bin/activate 
 
+    pip3 install -r requirements.txt
+    
 ### b. utiliser l'API
 
 - Créez un nouveu dossier .streamlit dans le projet streamlitbot
