@@ -27,7 +27,6 @@ git clone https://github.com/MartinMrnn/streamlitbot.git
 
 - Copiez collez les lignes de code ci-dessous dans le fichier secrets.toml
 
-    # .streamlit/secrets.toml
     OPENAI_API_KEY = "YOUR_API_KEY"
 
 
